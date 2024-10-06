@@ -1,0 +1,2 @@
+Arrays in Java: int[] marks = new marks[]; // Arrays are not primitives.
+
